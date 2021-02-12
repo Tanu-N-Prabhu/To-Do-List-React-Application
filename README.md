@@ -1,7 +1,7 @@
 
-# To-Do List Application
+<h1 align = "center"><b>To-Do List Application</b></h1>
 
-## Building a To-Do List Web Application With JavaScript Using React Framework
+<h2 align = "center"><b>Building a To-Do List Web Application With JavaScript Using React Framework</b></h2>
 
 
 
