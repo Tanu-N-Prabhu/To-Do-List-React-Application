@@ -37,5 +37,5 @@
 
    [Download](https://www.figma.com/downloads/) here.
    
-   ><b>Note</b>: Available for Windows and Mac OS, with both online (web-based) and desktop downloading options. 
+   ><b>Note</b>: Available for Windows and Mac OS, with both online (web-based) and desktop downloading options..
 
