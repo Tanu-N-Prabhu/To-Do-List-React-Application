@@ -4,8 +4,12 @@
 ## Installing Prerequisite Tools for the Project
 
 
-1. Visual Studio Code - [Download](https://code.visualstudio.com/download) here. Visual Studio Code is used as a code editor for this project.
-> <b>Note</b>: Available for Windows, Mac and Linux.
+1. Visual Studio Code 
+   
+   Visual Studio Code is used as a code editor for this project.
+   [Download](https://code.visualstudio.com/download) here. 
+
+    ><b>Note</b>: Available for Windows, Mac and Linux.
 
 2. Node.js - [Download](https://nodejs.org/en/download/) here. Node.js is used for Run time. 
 > <b>Note</b>: Two Versions such as LTS and Current are available. LTS is the stable version. The current is the latest updated version but it’s not stable. We often recommend the LTS version.
