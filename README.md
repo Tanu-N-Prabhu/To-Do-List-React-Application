@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Node.js - [Download](https://nodejs.org/en/download/) here. Node.js is used for Run time. 
 > <b>Note</b>: Two Versions such as LTS and Current are available. LTS is the stable version. Current is the latest updated version but it’s not stable. We often recommend LTS version.
 
-1. Figma - [Download](https://www.figma.com/downloads/) here. Used as a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.
+3. Figma - [Download](https://www.figma.com/downloads/) here. Used as a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.
 > <b>Note</b>: Available for Windows and Mac OS, with both online (web-based) and desktop downloading options. 
 
 
