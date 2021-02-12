@@ -15,8 +15,6 @@ const InputArea = (props) =>{
                 setInputText("");
             }}><span>Add</span></button>
         </div>
-
-
     )
 }
 
