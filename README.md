@@ -3,8 +3,7 @@
 
 <h2 align = "center"><b>Building a To-Do List Web Application With JavaScript Using React Framework</b></h2>
 
-
-
+<img src = "public\Img\FeatureImage.PNG" align = "center">
 
 
 
