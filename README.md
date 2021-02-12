@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Visual Studio Code - [Download](https://code.visualstudio.com/download) here. Visual Studio Code is used as a code editor for this tutorial.
 > <b>Note</b>: Available for Windows, Mac and Linux.
 
+2. Node.js - [Download](https://nodejs.org/en/download/) here. Node.js is used for Run time. 
+> <b>Note</b>: Available as LTS and Current. The difference between them is LTS is the stable version, and Current is the latest updated version, but it’s not stable. We often recommend LTS version.
+
+
 
 
 ## Available Scripts
