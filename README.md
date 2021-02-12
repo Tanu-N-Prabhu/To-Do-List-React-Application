@@ -3,9 +3,6 @@
 
 <h2 align = "center"><b>Building a To-Do List Web Application With JavaScript Using React Framework</b></h2>
 
-<p align = "center">
-<img src = "public\Img\FeatureImage.PNG" >
-</p>
 
 
 
@@ -37,5 +34,5 @@
 
    [Download](https://www.figma.com/downloads/) here.
    
-   ><b>Note</b>: Available for Windows and Mac OS, with both online (web-based) and desktop downloading options..
+   ><b>Note</b>: Available for Windows and Mac OS, with both online (web-based) and desktop downloading options.
 
