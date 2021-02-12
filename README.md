@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Installing the Prerequisite
+## Installing the Prerequisite Tools
 
 1. Visual Studio Code - [Download](https://code.visualstudio.com/download) here. Visual Studio Code is used as a code editor for this tutorial.
 > <b>Note</b>: Available for Windows, Mac and Linux.
