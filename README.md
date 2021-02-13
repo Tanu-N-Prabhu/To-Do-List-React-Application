@@ -38,4 +38,12 @@
    [Download](https://www.figma.com/downloads/) here.
    
    ><b>Note</b>: Available for Windows and Mac OS, with both online (web-based) and desktop downloading options.
+   
+---
+   
+# Credits
+
+1. <b>Udemy Course</b> - [React JS from absolute scratch by building your first React web app](https://www.udemy.com/course/react-the-beginners-course/learn/lecture/20514796#content)
+
+   > Thanks to  [Anton Francis Jeejo](https://www.udemy.com/user/anton-francis-jeejo/)
 
