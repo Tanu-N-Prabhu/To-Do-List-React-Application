@@ -70,6 +70,21 @@
    ><b>Note</b>: Available for Windows and Mac OS, with both online (web-based) and desktop downloading options.
    
 ---
+
+# GitHub Commands
+Use the Git commands from the Visual Studio Code to either push, commit and pull to the GitHub Repository.
+
+1. `git remote add origin add-your-git-link` - To connect to your GitHub Repository
+
+2. `git add README.md` - To specifically add new files
+
+3. `git commit README.md -m "Fixed the Typo"` - To commit file changes with a message 
+
+4. `git push -u origin master` - To push the changes to the repository
+
+5. `git pull origin master` - Before committing or pushing always pull the changes. 
+
+---
    
 # Credits
 
