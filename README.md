@@ -88,6 +88,62 @@ Use the Git commands from the Visual Studio Code to either push, commit and pull
 
 
 ---
+
+# Quiz
+
+1. JSX full form in React?
+
+   - [ ] Java Standard XML
+   - [x] JavaScript XML
+   - [ ] JavaScript XCode
+
+2. React is a?
+
+   - [x] JavaScript Library
+   - [ ] Framework
+   - [ ] Standalone Desktop Application
+
+3. How many tags we can return in a functional component?
+   
+   - [ ] Less than 1
+   - [ ] More than 1
+   - [x] Absolutely 1
+
+4. Which one is a default import?
+   
+   - [ ] export {App} from "./App.js"
+   - [x] import App from "./App.js"
+   - [ ] import {App} from "./App.js"
+   - [ ] export App from "./App.js"
+   
+   
+5. Which hook is used to maintain the state?
+
+   - [ ] `useEffect()`
+   - [ ] `useRef()`
+   - [ ] `useCallback()`
+   - [x] `useState()`
+   
+6. EventListener is a?
+
+   - [x] function
+   - [ ] attribute
+   - [ ] props
+   
+ 7. Which function is use to remove an item?
+ 
+   - [ ] map
+   - [ ] delete
+   - [x] filter
+   
+8. Which one of them is a spread operator?
+
+   - [ ] .
+   - [ ] ..
+   - [x] ...
+   
+   
+---
    
 # Credits
 
