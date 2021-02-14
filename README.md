@@ -4,7 +4,7 @@
 <h2 align = "center"><b>Building a To-Do List Web Application With JavaScript Using React Framework</b></h2>
 
 <p align = "center">
-   <img src = "https://github.com/Tanu-N-Prabhu/To-Do-List-React-Application/blob/master/public/FeatureImage.PNG" width="500" height="400">
+   <img src = "https://github.com/Tanu-N-Prabhu/To-Do-List-React-Application/blob/master/public/FeatureImage.PNG" width="550" height="400">
 </p>
 
 
@@ -37,6 +37,17 @@
 4. Add the project to the workspace to see the folders
 
    > Files --> Add Folders to the Workspace --> Select your React Project Folder
+
+---
+
+# Figma
+
+## Prototype of the application designed by using the Figma Tool.
+
+<p align = "center">
+   <img src = "https://github.com/Tanu-N-Prabhu/To-Do-List-React-Application/blob/master/public/To_Do_List_React_App.png" width="600" height="400">
+</p>
+
 
 ---
 
