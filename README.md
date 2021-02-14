@@ -14,6 +14,16 @@
 <p align = "justify">React is an open-source JavaScript library used for building user interfaces. It is used to handle the “View” layer for web and mobile applications. It also allows us to create reusable UI components. React DOM (Document Object Model) is a virtual DOM that is used for rendering the components of the DOM. The React DOM package has a name that implies is the glue between the React and the DOM. Even though it is a JavaScript library, people often refer to it as a framework, because the fact it has a lot of characteristics of a framework. But it is a JavaScript library, but not a framework. To know more about React.js there is no other place other than its official <a href = "https://reactjs.org/docs/getting-started.html">docs</a>.</p>
 
 ---
+# Project Set-Up
+
+1. To **create a new React App** navigate to the Visual Code Terminal and type the following command 
+
+   > `npx create-react-app first-react-app`
+
+
+
+---
+
 # Installation
 
 ## Installing Prerequisite Tools for the Project
