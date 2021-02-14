@@ -130,7 +130,7 @@ Use the Git commands from the Visual Studio Code to either push, commit and pull
    - [ ] attribute
    - [ ] props
    
- 7. Which function is use to remove an item?
+7. Which function is use to remove an item?
  
    - [ ] map
    - [ ] delete
