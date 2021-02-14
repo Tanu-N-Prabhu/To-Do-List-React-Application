@@ -82,7 +82,10 @@ Use the Git commands from the Visual Studio Code to either push, commit and pull
 
 4. `git push -u origin master` - To push the changes to the repository
 
-5. `git pull origin master` - Before committing or pushing always pull the changes. 
+5. `git pull origin master` - Before committing or pushing always pull the changes
+
+6. `rm .git/index.lock` - Use the below command in the root directory of the application. This will delete the index.lock file and release the active lock
+
 
 ---
    
