@@ -30,10 +30,13 @@
 
 3. Later you will be prompted by the React Home page as shown below - Indication of Successful installation
 
+   <img src = "https://github.com/Tanu-N-Prabhu/To-Do-List-React-Application/blob/master/public/reacthomepage.PNG" width="700" height="400">
 
+   > Click on the local host link to view the above result.
 
+4. Add the project to the workspace to see the folders
 
-
+   > Files --> Add Folders to the Workspace --> Select your React Project Folder
 
 ---
 
