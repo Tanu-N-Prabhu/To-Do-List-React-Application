@@ -1,5 +1,5 @@
 
-<h1 align = "center"><b>To-Do List Application</b></h1>
+<h1 align = "center"><b><a href = "https://to-do-list-react-application.netlify.app/">To-Do List Application</a></b></h1>
 
 <h2 align = "center"><b>Building a To-Do List Web Application With JavaScript Using React Framework</b></h2>
 
@@ -79,6 +79,31 @@
    
    ><b>Note</b>: Available for Windows and Mac OS, with both online (web-based) and desktop downloading options.
    
+---
+
+# Deployment
+
+## Netlify is used to deploy the project on the internet
+
+1. Create and set-up an Account in [Netlify](https://www.netlify.com/)
+2. In your Visual Code Terminal Stop the Server using `Ctrl-C`
+3. To create a production build use `yarn build` or `npm build` use it accordingly.
+4. After successfull installations you will get a `build` folder in your project.
+5. Install the [Netlify CLI](https://docs.netlify.com/cli/get-started/) from the Visual Studio Code Terminal. 
+6. Use the command to install netlify CLI - `npm install netlify-cli -g`
+7. Sometimes you might get an error as `ps1 cannot be loaded because running scripts is disabled on this system`.
+8. There are multiple ways to [solve](https://stackoverflow.com/questions/41117421/ps1-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system) this. One of the easiest ways is to install Netlify on your <b>Main Command Prompt</b> not the Visual Studio Code one.
+9. You need to login to Netlify using `netlify login`. Enter all the credentials to log in.
+10. To deploy the project lastly you need to type `netlify deploy`.
+11. Make Sure you select "Create and Confugure a new site". Sometimes it will ask your team name (Netlify Team Name).
+12. You can choose a random site name or give a custom one. Make sure to give a unique one.
+13. Provide the Build Directory as `./build`.
+14. The suite would not yet been deployed from the given URL.
+15. Go to your Netlify Dashboard to the project. Click on `Site has not yet been Deployed`. Again click on `Deploy Preview` this will unlock the `Preview Deploy` which is a temporary URL. 
+16. After viewing the Preview, click on `Publish deploy` option to deploy your project.
+17. Now you project is live and deployed on the internet. 
+   
+
 ---
 
 # GitHub Commands
