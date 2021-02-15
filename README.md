@@ -44,7 +44,7 @@
 
 ## Prototype of the application designed by using the Figma Tool.
 
-<img src = "https://github.com/Tanu-N-Prabhu/To-Do-List-React-Application/blob/master/public/To_Do_List_React_App.png" width="600" height="400">
+<img src = "https://github.com/Tanu-N-Prabhu/To-Do-List-React-Application/blob/master/public/To_Do_List_React_App.png" width="700" height="400">
 
 
 
