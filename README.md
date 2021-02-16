@@ -27,6 +27,7 @@
    `cd name_of _project/` for example `cd first-react-app` and 
    
    `npm start` or sometimes `yarn` is preferable
+   
 
 3. Later you will be prompted by the React Home page as shown below - Indication of Successful installation
 
