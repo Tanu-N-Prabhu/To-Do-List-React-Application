@@ -98,13 +98,14 @@
 8. There are multiple ways to [solve](https://stackoverflow.com/questions/41117421/ps1-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system) this. One of the easiest ways is to install Netlify on your <b>Main Command Prompt</b> not the Visual Studio Code one.
 9. You need to login to Netlify using `netlify login`. Enter all the credentials to log in.
 10. To deploy the project lastly you need to type `netlify deploy`.
-11. Make Sure you select "Create and Confugure a new site". Sometimes it will ask your team name (Netlify Team Name).
-12. You can choose a random site name or give a custom one. Make sure to give a unique one.
-13. Provide the Build Directory as `./build`.
-14. The suite would not yet been deployed from the given URL.
-15. Go to your Netlify Dashboard to the project. Click on `Site has not yet been Deployed`. Again click on `Deploy Preview` this will unlock the `Preview Deploy` which is a temporary URL. 
-16. After viewing the Preview, click on `Publish deploy` option to deploy your project.
-17. Now you project is live and deployed on the internet. 
+11. If you get an error saying `site not found`, then you need to unlink it by saying `netlify unlink`
+12. Make Sure you select "Create and Confiugure a new site". Sometimes it will ask your team name (Netlify Team Name).
+13. You can choose a random site name or give a custom one. Make sure to give a unique one.
+14. Provide the Build Directory as `./build`.
+15. The suite would not yet been deployed from the given URL.
+16. Go to your Netlify Dashboard to the project. Click on `Site has not yet been Deployed`. Again click on `Deploy Preview` this will unlock the `Preview Deploy` which is a temporary URL. 
+17. After viewing the Preview, click on `Publish deploy` option to deploy your project.
+18. Now you project is live and deployed on the internet. 
    
 
 ---
