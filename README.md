@@ -1,5 +1,5 @@
 
-<h1 align = "center"><b><a href = "https://to-do-list-react-application.netlify.app/">To-Do List Application</a></b></h1>
+<h1 align = "center"><b><a href = "https://603c13d2bf1ef7b5d8ca87ca--easy-list-app.netlify.app/">To-Do List Application</a></b></h1>
 
 <h2 align = "center"><b>Building a To-Do List Web Application With JavaScript Using React Framework</b></h2>
 
